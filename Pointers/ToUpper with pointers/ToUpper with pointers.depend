@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581020682 source:d:\programming\c\c softuni\pointers\toupper with pointers\main.c
+	<stdio.h>
+	<stdlib.h>
+

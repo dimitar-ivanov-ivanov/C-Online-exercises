@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1585425751 source:d:\programming\c\c softuni\dynamic memory\marks of students\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

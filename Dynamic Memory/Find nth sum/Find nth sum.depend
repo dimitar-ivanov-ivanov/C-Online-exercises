@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585425381 source:d:\programming\c\c softuni\dynamic memory\find nth sum\main.c
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580959885 source:d:\programming\c\c softuni\exercise loops\half sum element\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581010481 source:d:\programming\c\c softuni\exercise loops\coins\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

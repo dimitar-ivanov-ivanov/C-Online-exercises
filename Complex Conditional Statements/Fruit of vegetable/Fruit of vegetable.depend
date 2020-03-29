@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580946435 source:d:\programming\c\c softuni\complex conditional statements\fruit of vegetable\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

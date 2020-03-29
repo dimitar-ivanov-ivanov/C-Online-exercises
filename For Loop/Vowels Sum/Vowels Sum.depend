@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580954094 source:d:\programming\c\c softuni\for loop\vowels sum\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

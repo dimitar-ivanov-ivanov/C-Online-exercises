@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581012564 source:d:\programming\c\c softuni\exercise loops\number pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585414036 source:d:\programming\c\c softuni\dynamic memory\printing tokens\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

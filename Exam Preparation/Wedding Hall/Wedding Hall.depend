@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581972718 source:d:\programming\c\c softuni\exam preparation\wedding hall\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581025358 source:d:\programming\c\c softuni\pointers\strcmp with pointers\main.c
+	<stdio.h>
+	<stdlib.h>
+
